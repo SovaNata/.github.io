@@ -1,0 +1,28 @@
+html {
+  background-color: #D5DDE6;
+  font-size: 30px;
+  font-family: 'Kalam', cursive;
+      }
+ body {
+  width: 600px;
+  background-color: #EEFAFA;
+  padding: 20px 20px 20px 20px;
+  margin: 0 auto;
+       }
+h1  {
+	margin: 0;
+	padding: 20px 0;
+	color: #1E09E1;
+	font-size:60px;
+	text-shadow: 3px 3px 3px black;
+    text-align: center;
+  }
+  p, li {
+  	font-size: 16px;
+  	line-height: 2;
+  	letter-spacing: 1px;
+  }
+  img {
+  display: block;
+  margin: 0 auto;
+}
